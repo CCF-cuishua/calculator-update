@@ -1,1 +1,1 @@
-{"version":"5.10.3","url":"https://4ky194u8z3y4q.aiforce.cloud/app/app_17dze3vudfh","notes":"v5.10.3 测试更新：\n- 验证自动更新弹窗链路\n- 跨域读取正常"}
+{"version":"5.10.2","url":"https://4ky194u8z3y4q.aiforce.cloud/app/app_17dze3vudfh","notes":"v5.10.2 更新：\n- 版本文件迁移到 GitHub，自动更新弹窗正式生效\n- 修复「立即更新」按钮跳转错误"}
